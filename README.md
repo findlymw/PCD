@@ -2,7 +2,7 @@
 
 
 > Province
-> ~~~ JSON
+> ~~~ json
 > [
 >   {
 >     provinceId: 110000,
@@ -18,7 +18,7 @@
 
 
 > City
-> ~~~ JSON
+> ~~~ json
 > [
 >   {
 >     cityId: 130100,
@@ -33,7 +33,7 @@
 
 
 > District
-> ~~~ JSON
+> ~~~ json
 > [
 >   {
 >     DistrictId: 130606,
