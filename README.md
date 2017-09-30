@@ -1,47 +1,24 @@
 ### Province Citys and Districts
 
+Format:
 
-> Province
-> ~~~ json
-> [
->   {
->     provinceId: 110000,
->    provinceName: "北京市"
->   },
->   {
->     provinceId: 120000,
->     provinceName: "天津市"
->   }
->   ...
-> ]
+[
+  {
+    provinceId:110000,
+    provinceName:"北京市"
+  }
+]
 
+[
+  {
+    cityId:130000,
+    cityName:"石家庄市"
+  }
+]
 
-
-> City
-> ~~~ json
-> [
->   {
->     cityId: 130100,
->    cityName: "石家庄市"
->   },
->   {
->     cityId: 410100,
->     cityName: "郑州市"
->   }
->   ...
-> ]
-
-
-> District
-> ~~~ json
-> [
->   {
->     DistrictId: 130606,
->     DistrictName: "莲池区"
->   },
->   {
->     DistrictId: 130607,
->     DistrictName: "满城区"
->   }
->   ...
-> ]
+[
+  {
+    districtId:130101,
+    districtName:"XXX区"
+  }
+]
