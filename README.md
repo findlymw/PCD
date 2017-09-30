@@ -1,13 +1,15 @@
 ### Province Citys and Districts
 
+
+> Province
 ~~~ JSON
 [
-{
-provinceId: 110000,
-provinceName: "北京市"
-},
-{
-provinceId: 120000,
-provinceName: "天津市"
-}
+  {
+    provinceId: 110000,
+    provinceName: "北京市"
+  },
+  {
+    provinceId: 120000,
+    provinceName: "天津市"
+  }
 ]
